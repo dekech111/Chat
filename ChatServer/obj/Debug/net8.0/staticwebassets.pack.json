@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ilias\\OneDrive\\Рабочий стол\\ChatServer - Main\\ChatServer\\wwwroot\\chat.html",
+      "PackagePath": "staticwebassets\\chat.html"
+    },
+    {
+      "Id": "C:\\Users\\ilias\\OneDrive\\Рабочий стол\\ChatServer - Main\\ChatServer\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ChatServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ChatServer.props",
+      "PackagePath": "build\\ChatServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ChatServer.props",
+      "PackagePath": "buildMultiTargeting\\ChatServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ChatServer.props",
+      "PackagePath": "buildTransitive\\ChatServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+﻿@using ChatServer.Areas.Users.Models
+@model IEnumerable<ClassUsers>
+
+<h2>Все пользователи</h2>
+<table class="table">
+    <tr><td>Никнейм</td><td>Логин</td><td>Пароль</td></tr>
+    @foreach (var user in Model)
+    {
+        <tr><td>@user.Username</td><td>@user.Login</td><td>@user.Password</td></tr>
+    }
+</table>

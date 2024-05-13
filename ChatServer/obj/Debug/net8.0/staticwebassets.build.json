@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "56olw45pw7+g+WCK8ybLEdHnHTl3cVdRLw4ez36IM1I=",
+  "Source": "ChatServer",
+  "BasePath": "_content/ChatServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ChatServer\\wwwroot",
+      "Source": "ChatServer",
+      "ContentRoot": "C:\\Users\\ilias\\OneDrive\\Рабочий стол\\ChatServer - Main\\ChatServer\\wwwroot\\",
+      "BasePath": "_content/ChatServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ilias\\OneDrive\\Рабочий стол\\ChatServer - Main\\ChatServer\\wwwroot\\chat.html",
+      "SourceId": "ChatServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ilias\\OneDrive\\Рабочий стол\\ChatServer - Main\\ChatServer\\wwwroot\\",
+      "BasePath": "_content/ChatServer",
+      "RelativePath": "chat.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chat.html"
+    },
+    {
+      "Identity": "C:\\Users\\ilias\\OneDrive\\Рабочий стол\\ChatServer - Main\\ChatServer\\wwwroot\\index.html",
+      "SourceId": "ChatServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ilias\\OneDrive\\Рабочий стол\\ChatServer - Main\\ChatServer\\wwwroot\\",
+      "BasePath": "_content/ChatServer",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "XNVu3m3/KlMF3AjCtUvPG87LRWV96R/kYd8/CXLXqmw=",
+  "Source": "ChatServer",
+  "BasePath": "_content/ChatServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ChatServer\\wwwroot",
+      "Source": "ChatServer",
+      "ContentRoot": "C:\\Users\\i.shadrin\\Desktop\\ChatServer\\ChatServer\\wwwroot\\",
+      "BasePath": "_content/ChatServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\i.shadrin\\Desktop\\ChatServer\\ChatServer\\wwwroot\\index.html",
+      "SourceId": "ChatServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\i.shadrin\\Desktop\\ChatServer\\ChatServer\\wwwroot\\",
+      "BasePath": "_content/ChatServer",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

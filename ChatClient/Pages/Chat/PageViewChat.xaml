@@ -1,0 +1,19 @@
+﻿<Page x:Class="ChatClient.Pages.Chat.PageViewChat"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ChatClient.Pages.Chat"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="630"
+      Title="PageViewChat">
+
+    <Grid>
+        <StackPanel>
+            <Image Source="/Resource/BackgroundChat.png"
+                   Opacity=".65" Stretch="UniformToFill"/>
+
+
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,237 @@
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\Pages\PageAutor.g.cs
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\App.g.cs
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\Pages\PageAutor.baml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\App.baml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\Pages\WindowsRegistr.g.cs
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\Pages\WindowsRegistr.baml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Buffers.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.IO.Pipelines.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Memory.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Text.Json.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Threading.Channels.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.ValueTuple.dll
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Buffers.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.IO.Pipelines.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Memory.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Text.Json.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Threading.Channels.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\bin\Debug\System.ValueTuple.xml
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.exe.config
+C:\Users\i.shadrin\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.csproj.Up2Date
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Buffers.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.IO.Pipelines.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Memory.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Text.Json.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Threading.Channels.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.ValueTuple.dll
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Buffers.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.IO.Pipelines.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Memory.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Text.Json.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Threading.Channels.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\bin\Debug\System.ValueTuple.xml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\ChatClient.exe.config
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\Pages\PageAutor.g.cs
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\Pages\WindowsRegistr.g.cs
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\App.g.cs
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\App.baml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\Pages\PageAutor.baml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\Pages\WindowsRegistr.baml
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\ChatClient.csproj.Up2Date
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\i.shadrin\Desktop\Programming c#\ChatServer - Main\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Buffers.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Memory.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Text.Json.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Threading.Channels.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.ValueTuple.dll
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Buffers.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Memory.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Text.Json.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Threading.Channels.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\bin\Debug\System.ValueTuple.xml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\ChatClient.exe.config
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\Pages\PageAutor.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\Pages\WindowsRegistr.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\App.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\App.baml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\Pages\PageAutor.baml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\Pages\WindowsRegistr.baml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\ChatClient.csproj.Up2Date
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\Pages\Chat\PageSelectChat.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\Pages\Chat\PageMainChat.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\Pages\Chat\PageSelectChat.baml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\Pages\Chat\PageMainChat.baml
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\Pages\Chat\PageViewChat.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\ChatServer - Main\ChatClient\obj\Debug\Pages\Chat\PageViewChat.baml
